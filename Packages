@@ -1,0 +1,1175 @@
+Package: cn.zqbb.ccatop
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Utilities
+Maintainer: SXX, Domo
+Installed-Size: 840
+Depends:
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
+Filename: debs/iphoneos-arm64e/cn.zqbb.ccatop_2.3_iphoneos-arm64e_3b09b9311f853e601134699eb0ec94bc729eae22f8b3f310105ba52631265f98.deb
+Size: 183270
+MD5sum: e6f12e52eca255163c501ee58796ff40
+SHA1: 485a4a10529bba9c16e330b7ee095ece62b0ce25
+SHA256: 3b09b9311f853e601134699eb0ec94bc729eae22f8b3f310105ba52631265f98
+SHA512: d71d6a52cb44a5ea0a4a25a0509451976615521142d9984c0510c2aad4ab04cd006a17b012144546c70e27392ad1f94114b7bbee9714abd387f25bc491f55d29
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Name: CocoaTop
+Author: Domo, SXX
+Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.82flex.unseen_0.0.2_iphoneos-arm64_e3cbccc4d7a3a1d376338215d1d56ad1925461564735915c120b746bb45a4d90.deb
+Size: 43304
+MD5sum: e2c554b14db98ffea55847fc0387d548
+SHA1: 05d8308d837c1265e6961af2c40f8bb7228ca475
+SHA256: e3cbccc4d7a3a1d376338215d1d56ad1925461564735915c120b746bb45a4d90
+SHA512: dfd59235d079f2b7efe08d6e1328ecf5d49c66b706943161f52a0bf84b77d3337ee431300994479ea67fa482ae397775566945b7d80c349d5a87c43644c22f5c
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64e/com.82flex.unseen_0.0.2_iphoneos-arm64e_f697bfe8d49e367f4ce84f8daffc7569c589cb9b41ccd347efad0b8ef508664c.deb
+Size: 43246
+MD5sum: e563adf49ed08d3b0372fa0a6cb1064a
+SHA1: a3bbdb0211cf38c04575787e54a14eb572756445
+SHA256: f697bfe8d49e367f4ce84f8daffc7569c589cb9b41ccd347efad0b8ef508664c
+SHA512: 00e1f7b11278583a70181afbc0f1fea0eda1684b613a66f4015d644cef32c408d557edf53006efb75baa7307d30748356b9ea86da7e45f73b4cb205f7c558f58
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Name: Unseen
+Author: 82flex
+
+Package: com.ali7assan.swipeselection.rootless
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.ali7assan.swipeselection.rootless_2.0_iphoneos-arm64e_83f2b3831321e9326a3538d9ea89606460bc77de7c6cb89902854930de638b42.deb
+Size: 18760
+MD5sum: 0801b046b2e1af5a32b6d7225fc7550c
+SHA1: a31a632649adfcb16b7b1ce05993d000adf9546e
+SHA256: 83f2b3831321e9326a3538d9ea89606460bc77de7c6cb89902854930de638b42
+SHA512: 23734ef472c9ee71f1a080feb1bba46145ef32757b5d96d63053437b73599a5ad1473d2b211514a1d22da13ffb303cb15fc4c1bf42472a744538d968db702913
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
+
+Package: com.b4db1r3.ocd
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Tweaks (SpringBoard)
+Maintainer: b4db1r3
+Installed-Size: 808
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.noisyflake.cozybadges
+Filename: debs/iphoneos-arm64/com.b4db1r3.ocd_4.0_iphoneos-arm64_7f812f178154edffddd1a67a0b27b65b100423ee3e72fdaa4b4a427fe5c6e04e.deb
+Size: 120468
+MD5sum: 218ee269b06d629176660167a3dc4664
+SHA1: 0c328caf4f9332c932323fe9721e64483eab6a64
+SHA256: 7f812f178154edffddd1a67a0b27b65b100423ee3e72fdaa4b4a427fe5c6e04e
+SHA512: 039f708d8ca77a7629dc4178e821563771adba02618470791e01617a797f4935229fe78fd522b8da26fa58f06e9ee6a629b76bb6b29553d0f89018f4ca92396e
+Description: OCD - Obssesive Color Disorder.
+Name: OCD (iOS 15-17 | Roothide & Dopamine)
+Depiction: https://b4db1r3.github.io/d3vr3p0/depictions/web/?p=com.b4db1r3.ocd_ROOTLESS
+SileoDepiction: https://b4db1r3.github.io/d3vr3p0/depictions/native/com.b4db1r3.ocd_ROOTLESS/depiction.json
+Author: b4db1r3
+
+Package: com.brend0n.nokeyboardsettings
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.brend0n.nokeyboardsettings_0.0.1_iphoneos-arm64_4fc0e8a2b5984bf2d2f74488cf06c39ed43e0351be00cd6cb84012e7f69c79df.deb
+Size: 5948
+MD5sum: 3078192a9f381c294ee6ff8540d2df4c
+SHA1: b5fc79277ac9f8256ed46d7b009d8d516819f134
+SHA256: 4fc0e8a2b5984bf2d2f74488cf06c39ed43e0351be00cd6cb84012e7f69c79df
+SHA512: 41de4ea8ba3a000cf5524baae028bf2b46660a9fb0bd7c42b49a41346bcc713336032b67a7d2bcb195fa5aaec55f45a4af3b9fcf82df986d13fc32a52a8fd832
+Description: Remove Keyboard Settings and Hand Bias Switch.
+Name: NoKeyboardSettings
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.cameronkatri.quickactions
+Architecture: iphoneos-arm64
+Version: 1.0.0-2
+Section: Tweaks
+Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
+Installed-Size: 458
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/iphoneos-arm64/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64_4851ab2db892b4f37fa5dc960e0cbb0e7372f17d8857e9b40955ef81335ac971.deb
+Size: 40030
+MD5sum: 2307cd87cff89a9028e9326fd9791709
+SHA1: 2b7788c4c9d556344b033c48a25dce42aa9c3a35
+SHA256: 4851ab2db892b4f37fa5dc960e0cbb0e7372f17d8857e9b40955ef81335ac971
+SHA512: ad97366519476443405bf50f8d13542b83f34617c12b7a12aef6c27038d1a33a0f7ad02efbf0ca1018cc6a31b68dad76f38b3156fc75bac97c11a406f01c107f
+Description: Quickly launch apps from the lockscreen
+Tag: compatible_min::ios14.0
+Author: Cameron Katri <me+quickactions@cameronkatri.com>
+Name: QuickActions
+Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
+Depiction: https://chariz.com/get/quickactions
+
+Package: com.cydiageek.ermete
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.cydiageek.ermete_1.0.5_iphoneos-arm64_56ff9a78f202e4a78ec9e47a37a83dbe54979ec5a7fab1c6dbc89858fd094914.deb
+Size: 44264
+MD5sum: 0dcd0f61064bdb6b16f9e39996d3b399
+SHA1: 28cf1ccb8b387cfdda786d7e3229998b1596fc9d
+SHA256: 56ff9a78f202e4a78ec9e47a37a83dbe54979ec5a7fab1c6dbc89858fd094914
+SHA512: 52e8f7a9a487d25710b7a301c34e8eefe501462dc9076a44d0d073b99925587ea31a46a25a8576b1f20534687dbac83762f5ac5d986edb2e1f4b6c2493e99bbb
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Description: Adjustable Speed Effects opening/closing Apps/Switcher!
+Tag: purpose::extension
+Name: Ermete
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
+
+Package: com.developlab.peektimeline
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: developlab
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/iphoneos-arm64/com.developlab.peektimeline_1.0_iphoneos-arm64_481c553a57a95be974a5c2dab68c6c80a63ce3b780539123fc67a6b70973e2af.deb
+Size: 9442
+MD5sum: c8c9c75ccd222065e5e520f43907f7eb
+SHA1: 9f46e2dcb11a2a610863500ea96e84bd2c45ad7d
+SHA256: 481c553a57a95be974a5c2dab68c6c80a63ce3b780539123fc67a6b70973e2af
+SHA512: 411ea1aaf10da08c100b3cccd23f74b96fa7447955d868f2f55e8af7d24ac8eb7c07fd0ab9a02a59ec934f4376011bfa949bcedd2b6fbed36aee9e2d4f6548d5
+Description: An awesome MobileSubstrate tweak!
+Name: PeekTimeLine
+Author: developlab
+
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: debs/iphoneos-arm64e/com.dvntm.cc18_0.0.3_iphoneos-arm64e_ab021d689f4874c2c64a5586a57a7f3cb07b322cbd61d7fbd144acd15ae8aa61.deb
+Size: 4414
+MD5sum: aa6ca7d2ae575b7c73e76606faf1d7d1
+SHA1: 62897f278010f963fb6c43985650cf6c86e7f946
+SHA256: ab021d689f4874c2c64a5586a57a7f3cb07b322cbd61d7fbd144acd15ae8aa61
+SHA512: 17a8967eb960dab60d36fb6dba1a4d5ff6bef81e65742c01d96fbbb3d616189307afccdf754587138ab328d32afe7741e734435bdc5acac810702d0ebff4e5af
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CC18/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CC18/main/Sileo/depiction.json
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.dvntm.fbo_0.0.1_iphoneos-arm64_eeebc46d62a059e0a2eacef4411d692f04d0bd3ccaa490bfc70dea4a0cd23b79.deb
+Size: 3174
+MD5sum: bc4717d8d9e580b7cdc2e2da3897112d
+SHA1: a73a9e979dc61d5a94094ecea083e95336f2bb3c
+SHA256: eeebc46d62a059e0a2eacef4411d692f04d0bd3ccaa490bfc70dea4a0cd23b79
+SHA512: 681c103fe76bc5e5a2cae53bff14d92fdfa211616ba7480cec37ba7b5acadaf8fa2dfe36051abdc5e0cf1482b889777abd563de2a1410322a92386e01feb72a2
+Description: Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly
+Author: dvntm
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.dvntm.fbo_0.0.1_iphoneos-arm64e_c3d56859f35f784a64999c1459e34560a79eaa0b80d94dd530b966616e59108c.deb
+Size: 3110
+MD5sum: 4dc4f7ca521eebbc9f8b0dac36c3f3fa
+SHA1: dadeacc7205397deb032cbdee706ffcea0a65811
+SHA256: c3d56859f35f784a64999c1459e34560a79eaa0b80d94dd530b966616e59108c
+SHA512: b04e54966a99fbc973292e75b4e34a9025724f205a76b390d5f2725f701952cf3d328b65de08eb53c7eb76f7e9a46d883c9817afbeac3dd461a6ffad472018f1
+Description: Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly
+Author: dvntm
+
+Package: com.dvntm.lsnoswipe
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: debs/iphoneos-arm64/com.dvntm.lsnoswipe_0.0.1_iphoneos-arm64_cfca3c6eb79103e248a278d5cf839ddebbff5923de17e7126af501408221f820.deb
+Size: 3940
+MD5sum: 5ea6534aaaea37ebd686c6a8114ef4ba
+SHA1: 256a62a910c33017b8179d71901256673ed5ba60
+SHA256: cfca3c6eb79103e248a278d5cf839ddebbff5923de17e7126af501408221f820
+SHA512: 5511ada2c28d8d82a20a940c24db192c09698dabccc8691a5224bd55c8c59f281affdbe1e53e5933dcaddf601d091923d7db567943e24d0ff1f4134d463c5742
+Description: Disables swipe to open cam on the lock screen
+Name: LSNoSwipe
+Author: dvntm
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.dvntm.showmytouches_1.1.2_iphoneos-arm64_295ec02b73306fdee703f3ba38afbe2f2823dcf6aa722de4a217964236910769.deb
+Size: 53208
+MD5sum: fd7f453d0e2560811aa66ba6b2261a02
+SHA1: d738dab4d8bc50d5bffdadbe11253b234d4f73f9
+SHA256: 295ec02b73306fdee703f3ba38afbe2f2823dcf6aa722de4a217964236910769
+SHA512: 8dea644411b7253663a4881d5160864f73533429670241264f962f50d58f0e8f41409da2b27d8cb72b4e40349ffc4554d577073bd4c18fac1ac08fc935f396d8
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/iphoneos-arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e_508ff17ba523a9299f7220c3cec5af8613053b60afb778cc5c8fd16bd4f94e02.deb
+Size: 969248
+MD5sum: f7f3fb2c7740cf31428e467386ae6602
+SHA1: 3a1683f2b6d34b37e79f9a7916887d04d7792bcc
+SHA256: 508ff17ba523a9299f7220c3cec5af8613053b60afb778cc5c8fd16bd4f94e02
+SHA512: 6ee47017f552fadc70900845d56729a69f57d8d449ce740dbd4d7a6906d6e9ea0510aa2a463f62f846def4664c6f279f26ab1430cb29a7a067c881aeeeed5e12
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro (Roothide)
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/iCleaner.png
+
+Package: com.iamdega.uiscroller
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: iamdega
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.iamdega.uiscroller_1.0.5_iphoneos-arm64_897a84b024f3f6dd016a68943c6048e05162089e713453b0907ac98239e0e6fd.deb
+Size: 9486
+MD5sum: 3f24168288cf1389ddafe20a33d3a1cd
+SHA1: aeb3930faf336bcedac9e0e99e394b0b8243e256
+SHA256: 897a84b024f3f6dd016a68943c6048e05162089e713453b0907ac98239e0e6fd
+SHA512: 697eea907501b2c2a792e3ae7d9a52955acce9c4f4db1924665f24bad667bd1d9dab6a41aa7e0ac01c051433d49df5fc6a5c8b291e343fc4711e72e36219cd67
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: iamdega
+Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+
+Package: com.iamdega.uiscroller
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: iamdega
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.iamdega.uiscroller_1.0.5_iphoneos-arm64e_4e6eb1c4ddc7b6d4494b28c0e319eefa7e9316c547d42b2324e2e30d9f9bda7b.deb
+Size: 9428
+MD5sum: 6c7e877f6c0417742e2c88f91d57c843
+SHA1: f551f53f17bcc95d2cbbb02f414a5d9d7c4b5a55
+SHA256: 4e6eb1c4ddc7b6d4494b28c0e319eefa7e9316c547d42b2324e2e30d9f9bda7b
+SHA512: 48fbad261557d1f2c9f93aa29d82ab05704b5e994981565d8a88b3abacde2734d470408cc929f5edf3814f533d533ca09d35df4ec4001716b6082132f5ceae02
+Description: Rest your fingers, automate scrolling any pages!
+Name: UIScroller
+Author: iamdega
+Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+
+Package: com.iarrays.biolocker.rootless
+Architecture: iphoneos-arm64
+Version: 1.15.0-beta-2
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 2916
+Pre-Depends: firmware (>=15.0)
+Depends: mobilesubstrate, preferenceloader, com.iarrays.libiarrays.rootless (>= 1.0.16)
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect, com.iarrays.biolocker.roothide
+Filename: debs/iphoneos-arm64/com.iarrays.biolocker.rootless_1.15.0-beta-2_iphoneos-arm64_3d5a48f7f31cc6eaeb47b4fc0eddea28eabe95d4569b3839298bd2d99d80b014.deb
+Size: 660544
+MD5sum: a830bcaea0fe4ff46d0004e4119afaf6
+SHA1: 0663b559043e08a842234845b2b2c97b7f9a10d5
+SHA256: 3d5a48f7f31cc6eaeb47b4fc0eddea28eabe95d4569b3839298bd2d99d80b014
+SHA512: 59efdd6576a77f7897f59ce73487060aa959b31fbc0637c8b0965be77346ffda064bcda44597ddd168e66899d8fbc3a72a87dc2db262799d4fce10400df5988d
+Homepage: http://iarrays.com/
+Description: Simple, light weight and elegant locker for your apps. Protect your apps with Face ID or Touch ID or a custom passcode.
+Name: Bio Locker (Rootless iOS 16 to 15)
+Depiction: http://iarrays.com/depiction/biolocker
+SileoDepiction: http://iarrays.com/sileo-depiction/biolocker/biolocker.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: https://iarrays.com/sileo-depiction/biolocker/icon.png
+
+Package: com.iarrays.libiarrays.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-15
+Section: Development
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 656
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays, com.iarrays.libiarrays.roothide
+Filename: debs/iphoneos-arm64/com.iarrays.libiarrays.rootless_1.0.16-beta-15_iphoneos-arm64_f3c0c618960d52e18fbb438a075a030aba82a524199b4fdd5c0b97a9eba64d10.deb
+Size: 120386
+MD5sum: 328c308d158d6147c579ff9b022e74ec
+SHA1: 8141d41df9cd00bec7366b1511911432177c8b14
+SHA256: f3c0c618960d52e18fbb438a075a030aba82a524199b4fdd5c0b97a9eba64d10
+SHA512: 3f00ebfb90580f4beca5be34803d3f5f5017ac54cf2f805d0d8fff1b06ca510bfff2d0baf6ea368491b54a37b186811545120def4e6bebf7a09b796f109bba4f
+Homepage: http://iarrays.com/
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+
+Package: com.icraze.swipeselection
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.icraze.swipeselection_2.0_iphoneos-arm64_a27263299acee94a506b4447f789dee652a0e03fe2e76f686ece619910354e57.deb
+Size: 14200
+MD5sum: 590ba52bacebd881e2f2fa69ab1a2f26
+SHA1: a489496646bd67f2a9a6eee2fbef5ce4c97a6bf2
+SHA256: a27263299acee94a506b4447f789dee652a0e03fe2e76f686ece619910354e57
+SHA512: 98ade706bda19aa6805fb8ec6773e849d52c1ea9ca43c1f1afd44ec2538293f8c3ada990a94b69be626c8f7cc0ed9a56184e5a1d22cedb456684e5142a486df4
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
+
+Package: com.ikilledappl3.autofolderclose-rootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: michaelmelita1
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.ikilledappl3.autofolderclose-rootless_1.1_iphoneos-arm64_43848a0646ec5cc2a0a71bb5be9d4bae5fb3e009d618c54a4919951e7c8efe0a.deb
+Size: 3302
+MD5sum: 8fe5ac45af861cb328f7f06e3c269827
+SHA1: ae5d3478b667b1fefbd86aec25d726640c21c43a
+SHA256: 43848a0646ec5cc2a0a71bb5be9d4bae5fb3e009d618c54a4919951e7c8efe0a
+SHA512: 3bb2f6c77bbcf14af57568ced5c95d40ac25f07fb60a47475ee2471ea0597e3e2f5ded74942b4ef17b31d4e9aa3900b157a93d46a062fa4d6cb2b2b5c82c1701
+Description: Closes your folder when you launch an application.
+Name: AutoFolderClose
+Author: iKilledAppl3
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autofolderclose
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
+
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.lclrc.hammerit_1.7.1_iphoneos-arm64_541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+SHA512: 77a5790ec5dbe52a86abea9dbe41cf64d0f9e17f498eb7b0128c59f42ab7407c56b778d1bdaaaa0253bb6dd04a55bd7dca3ac8de4378c6f7ebd180ca3bec8cac
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
+Package: com.lclrc.recordanywhere
+Architecture: iphoneos-arm64e
+Version: 1.1.0-1
+Section: Tweaks
+Maintainer: Muirey03 & lclrc
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.lclrc.recordanywhere_1.1.0-1_iphoneos-arm64e_5001d22310d2595da6bda5d94333483408697dd5b659755c27c1fd47bb1f335d.deb
+Size: 4180
+MD5sum: 9bede24b0e7ea224fc81cdb90357bc8d
+SHA1: 72a51deac04c8fca8e5316378c8d8ed6b5b737b7
+SHA256: 5001d22310d2595da6bda5d94333483408697dd5b659755c27c1fd47bb1f335d
+SHA512: 714805cbd78efc8ce05b4c302857bf0f93ceefff4284cdd252185a16ae3062085fae0a7025066a916663e005d805bddb347afce20e78b669a339e2c4427f8294
+Description: enable screen recorder always work even on lock screen
+Name: RecordAnywhere
+Author: Muirey03 & lclrc
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64
+Version: 1.5-5
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1128
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.netskao.injectipa_1.5-5_iphoneos-arm64_cea8d5533b7ebcebf19ea35f5a2d1344111ccd65edf179c523235b46f2c2a1fb.deb
+Size: 346994
+MD5sum: 8c9e7afcde17973472a833fe53bcb27f
+SHA1: a782818d05d1eccc9327b6f7dc1d03fb3386f30e
+SHA256: cea8d5533b7ebcebf19ea35f5a2d1344111ccd65edf179c523235b46f2c2a1fb
+SHA512: 00370d313058a2439b0deaf14d37f446448ebd50a44b5a0e701963ecdddae57acf692102df096941d24e1a53ce18383dc59c34fdcaaaf4d3ba7c0d46f66d0b33
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+
+Package: com.pantsthief.flexing
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 284
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex, mobilesubstrate
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: debs/iphoneos-arm64e/com.pantsthief.flexing_1.5.2_iphoneos-arm64e_9368f575e0b7bd730040d92ff0bff26b6fcffa6f562540260f9a4235fd32a693.deb
+Size: 19698
+MD5sum: 2dfa9ec9e8a64fd166200e29b630bf14
+SHA1: 78c0ca739f59488f731fc45592888db4e5fa4e28
+SHA256: 9368f575e0b7bd730040d92ff0bff26b6fcffa6f562540260f9a4235fd32a693
+SHA512: 69a40fcc10e36724dfb53cc707712af2a4115ca75969ba242246951dd715948c3672d945e3bceed12567429f2379c30d4b6c8372fb5e6465ede88516653a43f8
+Description: Open FLEX anywhere!  aka FLEXTool/FLEXList
+  .
+  Usage:
+  - long press status bar on home screen
+  - three-finger long press on app views
+  .
+Name: FLEXing
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+SileoDepiction-unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.ps.smoothcursorios13
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: debs/iphoneos-arm64/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64_a0d6d8dccd184fae9ccde5da0babe9b51af62312a862ad17eccf5d5e0bbe1e5b.deb
+Size: 2984
+MD5sum: 8998472b4706063d7513b62483a4aa59
+SHA1: 7bf3543ddedccc2af54f65ac498ea45317246bf4
+SHA256: a0d6d8dccd184fae9ccde5da0babe9b51af62312a862ad17eccf5d5e0bbe1e5b
+SHA512: 82984c60c5e0eeaecac6f26de87a53990dc24e96f7d1431dcb330232c23f6d114be969289a38eee3fac8366d7e004fb2fe9ef976636a4271eeae9c16a3478bef
+Description: Office 2013-styled cursor animation.
+Name: SmoothCursor (iOS 13+)
+Author: PoomSmart
+
+Package: com.qiop1379.swipeextenderx
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64/com.qiop1379.swipeextenderx_1.6.2_iphoneos-arm64_cc27a9fc49d11a756f4e1a3d8e84cab82bef19c561f02ea13f1776cceed1ea25.deb
+Size: 85760
+MD5sum: 8c9e9aec473ff1b51cdd303b26f7e7e3
+SHA1: 3bee396e045065641b1fb539d55e84a4501b20af
+SHA256: cc27a9fc49d11a756f4e1a3d8e84cab82bef19c561f02ea13f1776cceed1ea25
+SHA512: 4dc18b93eb7b8884bbb3824211a993f5904205e71f8aa33cd0ad67eb28928c82ecf5d3ff4350c01f8aea713f992e8f96c6ecbe81365b4b0f2e958b46a42ad707
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Name: SwipeExtenderX
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Depiction: https://chariz.com/get/swipeextenderx
+
+Package: com.roothide.lockdown
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.roothide.lockdown_2.0_iphoneos-arm64e_503928cc010c1b4c037ec31d714581ce59470837a8b6f225d3cc17509c317ac4.deb
+Size: 5256
+MD5sum: 6b62ffea6abd0054b8d32d3d32789c37
+SHA1: 1a5fdb1dbbf1389db596c2eb6b3aca3491a01818
+SHA256: 503928cc010c1b4c037ec31d714581ce59470837a8b6f225d3cc17509c317ac4
+SHA512: ccb9a925619819b456a24ea6d69772e7a261e75143182bda36605a1c2000a8cd7a8a0678bd4163892717299c7850b22bde40884672c886eb52f26f4411fad833
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Enabled by default!
+Name: lockdown
+Author: roothide
+
+Package: com.squidforce.moreactionsforappicon
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.squidforce.moreactionsforappicon_1.1.0_iphoneos-arm64_615a9981c38abc2c741c750f07e6a506bae66e7883fde2c4070508f963066051.deb
+Size: 8286
+MD5sum: b62ea82a38f5399bd394d7c27d96786d
+SHA1: 66bf4e0fe523dd8d99afb918fd934c35a2e5c652
+SHA256: 615a9981c38abc2c741c750f07e6a506bae66e7883fde2c4070508f963066051
+SHA512: be8963489e2f6ad417212c12a2be592b513466fa90f68595fd65a4630543666b9c8ff083d259522d033db37b2bcbddb882d8e9921f84657c035a99bbef4cd83a
+Description: 添加“应用标识符”，“应用设置”和“在AppStore中查看”动作，并去掉多余动作。More actions for AppIcon's 3D Touch menu, and less duplicated actions.
+Name: 应用3DTouch菜单
+Author: SquidForce
+
+Package: com.subdiox.storeswitcher2
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 216
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm64_3a07ed55194913121f5bb0ff27703d9fa86e06972b3f012ea8e813104a6eace6.deb
+Size: 22860
+MD5sum: c1c74bcdb70a422b7ded0d1c26f25459
+SHA1: 7b02f5c0331389bebd440d2996684ae90d8f80a8
+SHA256: 3a07ed55194913121f5bb0ff27703d9fa86e06972b3f012ea8e813104a6eace6
+SHA512: a0aab1277763caaf660713f4e36ddd761c2b05dcd5797bd56adba575338bae1e6697efe7e1a9a987c4e7fad1010a05277803efafac05402b05a9a19037eb6bcc
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: subdiox
+
+Package: com.subdiox.storeswitcher2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm64e_10c804442810e40fdcf89c9ea7ffcdd88428ae92461048db56ca906a706bb67b.deb
+Size: 32028
+MD5sum: c988173b8b56d9c8c57cbbf01c5279d1
+SHA1: ddd6e80dde072cc93b06baa349d5d8f081467123
+SHA256: 10c804442810e40fdcf89c9ea7ffcdd88428ae92461048db56ca906a706bb67b
+SHA512: bc7c1607bfb5f0d0788f8bd65a6e571d17f1353f38b639d6af515dba40e76bef846b9a503b6cbbbf2ab557ff3b964c4c581678a9e54d9930ba9a13dddcf6e09f
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: subdiox
+
+Package: com.tomaszpoliszuk.colorpickerwell
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 198
+Depends: firmware (>= 9.0), org.thebigboss.libcolorpicker | firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.tomaszpoliszuk.colorpickerwell_1.0.0_iphoneos-arm64_1d094fb2c23d4e4330d0d334f6fbf4a3eb5e48ca66fe0c9f4138afd61e861a2c.deb
+Size: 33932
+MD5sum: a2aa9b989fc3cec4e4c107d1d86756ba
+SHA1: e17821fed9407b9e2e2d5028cfd59b20ec21592b
+SHA256: 1d094fb2c23d4e4330d0d334f6fbf4a3eb5e48ca66fe0c9f4138afd61e861a2c
+SHA512: 5fc008409574220741b2846105016637d0e526775a0cdf867a9adb06151b3e938c1d208535d7740800520f5122c85d262b6e36c3d59c647a3d01d12695b09030
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorpickerwellDp
+Description: Color picker framework for developers
+Tag: role::developer
+Name: Color Picker Well
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorpickerwellDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+
+Package: com.tomaszpoliszuk.colorpickerwell
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 198
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), org.thebigboss.libcolorpicker | firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.tomaszpoliszuk.colorpickerwell_1.0.0_iphoneos-arm64e_6b02719d6ee0a457ac0b5fe9e7307e635f01eca4edbeefc74e300f07cd07f7ca.deb
+Size: 38792
+MD5sum: 308d55a90848156cef483c62f42edf6e
+SHA1: 1c3dd9a7564ad87fdf6aa50b37c848463faf27cc
+SHA256: 6b02719d6ee0a457ac0b5fe9e7307e635f01eca4edbeefc74e300f07cd07f7ca
+SHA512: c51493a4020526acb774c6fed1c7c6cb60e531e1fc2420dc0c850ec09c958fb4e1322bf351ed83210266dd1ef0863786c01bad5395b8d29cdc9f2ec458bdf79c
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorpickerwellDp
+Description: Color picker framework for developers
+Tag: role::developer
+Name: Color Picker Well
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorpickerwellDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+
+Package: com.tomaszpoliszuk.dockcontroller
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 409
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.tomaszpoliszuk.colorpickerwell, com.chpwn.iconsupport | firmware (>= 13.0)
+Filename: debs/iphoneos-arm64/com.tomaszpoliszuk.dockcontroller_2.1_iphoneos-arm64_ce8896da6cd730b31a1854bb70e5be3a2739baac44655357907b47f1dbb48cf5.deb
+Size: 62440
+MD5sum: 93e441de4b90edd9c404b64f310d93c7
+SHA1: 634096fa7e2b4f161e72a2df7450e7a293538342
+SHA256: ce8896da6cd730b31a1854bb70e5be3a2739baac44655357907b47f1dbb48cf5
+SHA512: 79ca8e252c25d91b9c241c71d8c242f24ea6abb0c161f302b64918ab2894deb236280e833c6ab87e08bf58e352d70b505da222f7f1bf0016dc3b619e2c929f6c
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Description: Control Your Dock
+Tag: purpose::extension
+Name: Dock Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
+
+Package: com.tomaszpoliszuk.dockcontroller
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 409
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.tomaszpoliszuk.colorpickerwell, com.chpwn.iconsupport | firmware (>= 13.0)
+Filename: debs/iphoneos-arm64e/com.tomaszpoliszuk.dockcontroller_2.1_iphoneos-arm64e_a645d62b09a0289d5c38a1425648e998a9675e7accbdea4cbed9b5492eb6340f.deb
+Size: 73620
+MD5sum: e54087f03a7c2b11897a7c73ed6d6273
+SHA1: 4e404f5690a0fe2add6bcc2fceae7121e7570406
+SHA256: a645d62b09a0289d5c38a1425648e998a9675e7accbdea4cbed9b5492eb6340f
+SHA512: de74727c1d192f0b67140ff1e9311ab1f81dfc9500509f29f31989aa8e440892420dfd474998d82912cbaf49f4e58ec5cbd666200f3b0b73c298bf3ddf3c8226
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Description: Control Your Dock
+Tag: purpose::extension
+Name: Dock Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
+
+Package: com.tsangbaby.arcx
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 1716
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 15.0)
+Conflicts: com.arcx.launcher
+Replaces: com.arcx.launcher
+Filename: debs/iphoneos-arm64e/com.tsangbaby.arcx_1.1.3_iphoneos-arm64e_5a2e934560f377541ee4ac7e5808c60f1161aa91f04e2852ff505505e0820b7d.deb
+Size: 293486
+MD5sum: a5816c91880a666ef2b8d042a7e98b2e
+SHA1: 38f66d14d99ea3caf4673da2699cb385e9bd3c70
+SHA256: 5a2e934560f377541ee4ac7e5808c60f1161aa91f04e2852ff505505e0820b7d
+SHA512: afe69d77671c424e5d71b7cc62fbe513307e4e46ac03d2c8cffd0a17956dc1a0b534d7e766f9c82238fc6abcfa05ebf29de0bed634efbd89dba20ffc403336b5
+Description: Independent Arc-X fullscreen app launcher.
+Name: Arc-X
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Arc-X.png
+
+Package: com.tsangbaby.autoscroll
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Maintainer: Tsangbaby
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.tsangbaby.autoscroll_0.0.1_iphoneos-arm64e_cfb4588257119629e7ddab3dd9882a4472b76361b087ae9b171f74f31dd6b6db.deb
+Size: 2590
+MD5sum: 41740244260e665e939336b264dd93c1
+SHA1: 967c6e7ef71ae5f46287cc02fbc30c04ecb81e5f
+SHA256: cfb4588257119629e7ddab3dd9882a4472b76361b087ae9b171f74f31dd6b6db
+SHA512: 7d7922c4f80ba957b3d5769210d112f09868d04d09d3d6247fa361957b79bf45be693dc2da43b5ba8a56ad1c72b9d598d06e5cad113ff7568614e1e17e73164e
+Description: AutoScroll scroll behavior tweak for RootHide.
+Name: AutoScroll
+Author: Tsangbaby
+
+Package: com.tsangbaby.copylite
+Architecture: iphoneos-arm64e
+Version: 1.8.6
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 1800
+Provides: me.tomt000.copylog
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), com.opa334.libsandy
+Conflicts: me.tomt000.copylog, com.newbie.ioscopy
+Replaces: me.tomt000.copylog, com.newbie.ioscopy
+Filename: debs/iphoneos-arm64e/com.tsangbaby.copylite_1.8.6_iphoneos-arm64e_f8a48f3fbb1ea5558830eb09c8a19538e4def74c5ae9da369a4029ec3bd60977.deb
+Size: 242818
+MD5sum: 2d6c7d6d5c7482caea30e5a97d72248b
+SHA1: eec835d8d6f2b739d429043968c5f46fd1b04abe
+SHA256: f8a48f3fbb1ea5558830eb09c8a19538e4def74c5ae9da369a4029ec3bd60977
+SHA512: a7c42d41d6933529e9c93ccced01a84f53c4f8fed6ef3d0b7d98079a9ace7a6c4fb5436f62ad25ec5422624fad57b43c3055d4d60694fdd41be0bdcf0849c304
+Description: CopyLite clipboard history manager for iOS with text, image, search, and paste support.
+Name: CopyLite
+Author: Tsangbaby
+Icon: file:///Library/PreferenceBundles/CopyLitePrefs.bundle/icon.png
+
+Package: com.tsangbaby.kayoko
+Architecture: iphoneos-arm64
+Version: 5.0
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 3532
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: debs/iphoneos-arm64/com.tsangbaby.kayoko_5.0_iphoneos-arm64_4e7e4407e177f357f6231a81ec2b07a9d936cf4f8e3d1dd1c8552a415dcf866a.deb
+Size: 746300
+MD5sum: 4a440fb9a323012a6157f64817de1f44
+SHA1: fb89c14ff5e4f9b05a1e582bf276dd68cf6ab342
+SHA256: 4e7e4407e177f357f6231a81ec2b07a9d936cf4f8e3d1dd1c8552a415dcf866a
+SHA512: 7f3f3f1cac6b57576a8683b2af0ac4d67ce03b338aff4a1feb3bb228881c9adf19da553730e4145c78969f49dddd555b72a67b29000253c8f97ee5321cc341dd
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Name: Kayoko
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Kayoko.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.kayoko/depiction.json
+
+Package: com.tsangbaby.kayoko
+Architecture: iphoneos-arm64e
+Version: 5.0
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 3516
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: debs/iphoneos-arm64e/com.tsangbaby.kayoko_5.0_iphoneos-arm64e_2debbba98ea8146333eeb57657cfc188abb53e12283845cb1def3b4a12874d9b.deb
+Size: 747256
+MD5sum: 6ec153010691abedd96fb48eda3f278f
+SHA1: e0960dc7f39fc4fa154989a3f9ea657cf893c2bc
+SHA256: 2debbba98ea8146333eeb57657cfc188abb53e12283845cb1def3b4a12874d9b
+SHA512: 5ef9b3a3aa2ec41eff026d5ecade4f07454fa32d6adb34c26f4b6ac3f9b31a8080babeb88c62ba1de3dd7e39bba3a2e648e9a837366932d23a72dbd96b10b79b
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Name: Kayoko
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Kayoko.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.kayoko/depiction.json
+
+Package: com.tsangbaby.lecard.wuyu
+Architecture: iphoneos-arm64
+Version: 991.1.10
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1852
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.tsangbaby.lecard.wuyu_991.1.10_iphoneos-arm64_8595e8676ee6458cef3ca9b0381dc2a000513b6cc91899242d9847de883bf4c4.deb
+Size: 385312
+MD5sum: 82ad4c0712b6482e46db5a6fe70011ee
+SHA1: 310df8629492bde1510803dfff188262a65ae274
+SHA256: 8595e8676ee6458cef3ca9b0381dc2a000513b6cc91899242d9847de883bf4c4
+SHA512: 2a322a7e7ccea79ce458dd604d41e45a12f68b362a273ef0f8469f34fd0bab4c12dda19b0187f1bf6ae0789e1c844d982f6d1e41700a0b5bd1f16afb3d1a77da
+Description: AppLecard默认值恢复工具,无限安全模式安装恢复。
+Name: AppLecard Special
+Author: Crassna
+
+Package: com.tsangbaby.pancake-rootless
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: debs/iphoneos-arm64/com.tsangbaby.pancake-rootless_2.3_iphoneos-arm64_19ec51c75050ec6ccd609f9fabecfb2fcd43ffcf6a6f77ccd6cc37a73b9de02b.deb
+Size: 111916
+MD5sum: a08c12f4be721cf5277f4563b3669e4e
+SHA1: 54999d1d5d1481ef09c48671b02cc9b43dd07059
+SHA256: 19ec51c75050ec6ccd609f9fabecfb2fcd43ffcf6a6f77ccd6cc37a73b9de02b
+SHA512: 274accd117080a9e089fb36099886fd3c4c85bceb3cd5525307aa1cb59b93178221a3e762a18dc45d58c716c20a5296c82a5a30095ebaa6470ce18d8b2a635e7
+Description: 个人汉化自用！Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
+Name: PanCake (Rootless) 汉化版
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64/com.tsangbaby.pulloverx_2.0.5_iphoneos-arm64_e953cfc89c45e0cc667c124596101e46148733919a33874e73bf6d64e5513616.deb
+Size: 585990
+MD5sum: d1de3bd542ca36bc9b237d534acea3f2
+SHA1: e2baef8627171c9265065937c108d10d2f769912
+SHA256: e953cfc89c45e0cc667c124596101e46148733919a33874e73bf6d64e5513616
+SHA512: 63a0b19ab9afb77b7a92d3a19e8a0836955f258b4480832877d517ec60fbd4f1695c6fd12692c22bc29c6d172cce94a35599cde8b1fc8ad4ccc795bb442498ac
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64
+Version: 2.3.0
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64/com.tsangbaby.pulloverx_2.3.0_iphoneos-arm64_98016d49e4358fcd56a72619b36956b8026210370e1d1066c2c72e7e85c57d44.deb
+Size: 627580
+MD5sum: 5c709de3a980356c5daeed88d3123c56
+SHA1: 0deae0037c2f9f1e513924c4bab41b89ff419a00
+SHA256: 98016d49e4358fcd56a72619b36956b8026210370e1d1066c2c72e7e85c57d44
+SHA512: a4a082117a3e86f6264ec21ddbd1c1d7f882c4d234b0eb39e4867243acc9715848f5d52c04407a2bca262501c328cd6746552384bac074312e9537c1c648db89
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64e
+Version: 2.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.0.5_iphoneos-arm64e_322e65952a539bee63d50f724f3f0b5a72c46d83721629fa433f739c6121fb65.deb
+Size: 582400
+MD5sum: 6806e247b4f2f510d5f90a8890108031
+SHA1: 08ee2da0bc4e0c60860fba21e743925d2db13091
+SHA256: 322e65952a539bee63d50f724f3f0b5a72c46d83721629fa433f739c6121fb65
+SHA512: d99f86c1be1697ff0198e1de0f7482692e19d00652c05a847112b80a23c13f3d546261c8135dc91fa629034997fa3969406a7d0b92276bddd220adfc9f34c2bb
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64e
+Version: 2.3.0
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.3.0_iphoneos-arm64e_01343f02fa7e5869846c50649dd61c6a21131db687f914d0fe6ea76c59ff9c32.deb
+Size: 625520
+MD5sum: 7193d791607efa300c392f34429e5a13
+SHA1: 0991d9d919ded5f5399a45368eab934547d64bf8
+SHA256: 01343f02fa7e5869846c50649dd61c6a21131db687f914d0fe6ea76c59ff9c32
+SHA512: b5bb904b2dd8be75adbdbe7466e682d5565d7db4377f02811f85eabc4892d9da3be38642012af1d051bc9e747d8d6a63e5b0ac785a00e4851ce02990446c662f
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.3.1_iphoneos-arm64e_bd8160f340cc8c2f18fefad0186adc6e27d4c9c680edb7305a6824bb52e1149f.deb
+Size: 637420
+MD5sum: b799956c9af3a9dbe966fae9d63a373d
+SHA1: 28f03b923358245a188732a1001afd54537d6f3a
+SHA256: bd8160f340cc8c2f18fefad0186adc6e27d4c9c680edb7305a6824bb52e1149f
+SHA512: 790bcfae42444b2bb7809ebddaf222b29830111b0c7df1e298fd84b6641b1facc5fe6ad8e69c80b250ef866a5e4519a57ce91c2a902bf235976cbff33b1f0235
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+
+Package: com.tsangbaby.pulloverx
+Architecture: iphoneos-arm64e
+Version: 2.3.2
+Priority: optional
+Section: Tweaks
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.3.2_iphoneos-arm64e_1d0aa343f4a12c8defbf943d71d87608254a82b3644e660d0654cdf8bc7828bc.deb
+Size: 671500
+MD5sum: 0632d92595ca1f1409b39c316026e2ba
+SHA1: 2623b74356459458ef2eef64d5daf7f943bd227b
+SHA256: 1d0aa343f4a12c8defbf943d71d87608254a82b3644e660d0654cdf8bc7828bc
+SHA512: 25e36dc5f3ef1e9f2b8afe24002b670a550dd415fb17bf3eca354b6f9479647a9fbdc59f9148ed098b10b0f348064340f322b9f4d9f7509401984f158b971500
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Name: PullOver X
+Author: Tsangbaby
+dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+
+Package: com.tsangbaby.randomiconsflip
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: net.limneos.randomiconsflip
+Replaces: net.limneos.randomiconsflip
+Filename: debs/iphoneos-arm64e/com.tsangbaby.randomiconsflip_0.1.1_iphoneos-arm64e_e37192e968d41007ca34409920b54a1028f2a0eec6dcce7cefa4085496433837.deb
+Size: 33834
+MD5sum: 56ff2227ae9dd6ef31b5f3868ef63078
+SHA1: 7426a27f0b1ae564775ed6ae858ea7b5e100250d
+SHA256: e37192e968d41007ca34409920b54a1028f2a0eec6dcce7cefa4085496433837
+SHA512: 879f9d4e890248e81c95873104f3c0096a505ca702bf2a15dce1e0d922c1ace877371857647ef85994f8d91b15d8bc090b1373f9247d4b7dd8f8779a7e676bf2
+Description: Randomly animates one to three visible Home Screen icons per batch, including Rocket Launch and Slingshot. Swift-core rewrite for iOS 15 and later.
+Name: Random Icon Flip
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/RandomIconFlip.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.randomiconsflip/depiction.json
+
+Package: com.tsangbaby.statusbarspeed
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 524
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.squidforce.statusbarspeed
+Replaces: com.squidforce.statusbarspeed
+Filename: debs/iphoneos-arm64e/com.tsangbaby.statusbarspeed_1.1.8_iphoneos-arm64e_219e79ee1a4f1d7ff14b0a3c2cf6749eab6c1e60330ebeb94074e1781e937924.deb
+Size: 102638
+MD5sum: c55514e2ea696ad655121af3e019a7cd
+SHA1: 2f70b8ae8fcb081e0d596ab373c4f4c326534a21
+SHA256: 219e79ee1a4f1d7ff14b0a3c2cf6749eab6c1e60330ebeb94074e1781e937924
+SHA512: bb58b6b9b2829662114e3f2959353a40cf7b073ef97412ea270c52d0eefb9aec6f4caa37329effc68611d5ce8022a178b29cab5849c7b88ecbfe1351f32bea3b
+Description: 状态栏网速，根据SquidForce的“状态栏网速/Status BarSpeed”逆向重写，适配ios15- ios17 系统。
+Name: StatusBarSpeed
+Icon: https://tsangbaby.github.io/Icon/StatusBarSpeed.png
+Author: Tsangbaby
+
+Package: com.vita.wchook
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.vita.wchook_1.0-2_iphoneos-arm64_fc89299668f6e5dc4e2468c85d5f3b1202697b8dcf5b6bcfe9aa163892305dfd.deb
+Size: 31814
+MD5sum: b6af340533f4795baeee78fc4dfae4e9
+SHA1: d5ec00c92a79ab23d7487ea3e37157f728458829
+SHA256: fc89299668f6e5dc4e2468c85d5f3b1202697b8dcf5b6bcfe9aa163892305dfd
+SHA512: 31a8bc29d013ddd2a13f878c643b454027d8407944933ac2c611dac30e6473c98f8f25ff64f69b90dffa8910f29d5c8489ce49628e6da8b07ac694582ab1f163
+Description: 微信功能扩展
+Name: WCHook
+Author: vita
+
+Package: com.vita.wchook
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.vita.wchook_1.0-2_iphoneos-arm64e_b8c2c2ec75b9e91e2edc7c2f3dd70ed5af6877661f05e0b07e71b029bdc10b57.deb
+Size: 31748
+MD5sum: 9265dac7f658a26fef4a5d7e800092b6
+SHA1: e940ea51e6ee0312ce7758119c9bbc768f9c828c
+SHA256: b8c2c2ec75b9e91e2edc7c2f3dd70ed5af6877661f05e0b07e71b029bdc10b57
+SHA512: 652e39be4f6fbe08be96f871bce6e0fbf0551d9312eec7836b5d49d92bb997c75e2fb0ed1f0e7cfe9d147d875f316936e23e8dbe8a7038f118fb48c594f7cf03
+Description: 微信功能扩展
+Name: WCHook
+Author: vita
+
+Package: dev.traurige.batterybuddy
+Architecture: iphoneos-arm64
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: debs/iphoneos-arm64/dev.traurige.batterybuddy_1.3.5_iphoneos-arm64_cea8011dad5fd1ca482a89d34a08e6aed67b711eae7a009a23c18ce3e3c7fdd0.deb
+Size: 37604
+MD5sum: fa3e2d45d091aacdc66b44b47a50b744
+SHA1: d09bdaadf4261625ff3295a0bcb25371976d59d4
+SHA256: cea8011dad5fd1ca482a89d34a08e6aed67b711eae7a009a23c18ce3e3c7fdd0
+SHA512: 921567a7d571f4ec05e44cbec6c8144f90e971e0539d68d4f3c538e9f9c91c3d2fbb309e83e64b6f3c32e6e1fed7075213165c372b750a65b6dd32ebc0914c6e
+Description: Battery indicator, but cute
+Name: BatteryBuddy
+Author: Traurige & neilsardesai <hello@traurige.dev>
+
+Package: ellekit
+Architecture: iphoneos-arm64e
+Version: 1.2
+Priority: optional
+Section: Tweak Injection
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Breaks: com.opa334.libsandy (<= 1.1.6-3)
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: debs/iphoneos-arm64e/ellekit_1.2_iphoneos-arm64e_3f05acea159f0afe6295ae3da3f3cda56958bcff33a6a9abcbbf83ebc6abaa2c.deb
+Size: 143768
+MD5sum: 22abcac3a5f481f54e55b5d56a145c4e
+SHA1: d31199f7a2175e3547dfdd3d69eea4916f072cc7
+SHA256: 3f05acea159f0afe6295ae3da3f3cda56958bcff33a6a9abcbbf83ebc6abaa2c
+SHA512: 9c6ecd5740cd6ae6b5e48cdc49ac8e21ac321b42ed7b873964fc770cd82b51574f7d0bebc20d6d1de6cb849a592909beff6267b5c57f23e2bf6da1daf2e146a4
+Description: ElleKit tweak injection libraries and loader
+Name: ElleKit
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+
+Package: jp.r-plus.doublecut
+Architecture: iphoneos-arm64
+Version: 0.8
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: debs/iphoneos-arm64/jp.r-plus.doublecut_0.8_iphoneos-arm64_105aac71c25e5ee4dd33ecbac93e0d971ea0c1a0663fd02cacd66394e9f16e3b.deb
+Size: 17762
+MD5sum: 5697a1bf4eff6b7d31dda6bc1719854d
+SHA1: c23cfa40d478f28356e6f1a2ebbbfc11e1b9020a
+SHA256: 105aac71c25e5ee4dd33ecbac93e0d971ea0c1a0663fd02cacd66394e9f16e3b
+SHA512: 427e387208d3ac926d100ab161856e95a60b228d6a018f9d77a084c4991ba19458eeca5b60ce15ad45b477f557ce9320a8be26b3b5b211e085a9a0b2d736a1a3
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Description: DoubleTap/TripleTap/LongPress key to insert arbitrary text.
+Tag: purpose::extension
+Name: DoubleCut
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+dev: rplus
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Icon: file:///Library/PreferenceBundles/DoubleCutSettings.bundle/DoubleCut@2x.png
+
+Package: libflex
+Architecture: iphoneos-arm64e
+Version: 4.7.1
+Section: Tweaks
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 5412
+Pre-Depends: firmware (>= 9.0)
+Depends:
+Filename: debs/iphoneos-arm64e/libflex_4.7.1_iphoneos-arm64e_b9d87d7644e7920450bbba8c4b397b139aaf41bdbfbae6365ee1fc88c580f717.deb
+Size: 1317062
+MD5sum: 09f9fe256bcf4174c642a471d405ccd5
+SHA1: 8f0839c96f28e26ceca4a586d8636d1d89f106a2
+SHA256: b9d87d7644e7920450bbba8c4b397b139aaf41bdbfbae6365ee1fc88c580f717
+SHA512: 1d9714a4f8beeedae87ad2f0056532178f8c3079536d8d7fac4d7f1fd4a0af20bcdc961ad6112579f9b351c0a409263baa15333754f797dca941f2fe4aa9efe7
+Description: A library for Flipboard Explorer.
+Name: libFLEX
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
+Package: netskao.BlockAppsCreateAlbum-rootless
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 19660
+Provides: netskao.BlockAppsCreateAlbum-rootless
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.BlockAppsCreateAlbum-rootless
+Replaces: netskao.BlockAppsCreateAlbum-rootless
+Filename: debs/iphoneos-arm64/netskao.BlockAppsCreateAlbum-rootless_1.1.2_iphoneos-arm64_b1d2d1422cabd948df35fe861eed0dda7905e512ecb1c1ace66937ad8832d837.deb
+Size: 4492
+MD5sum: c526726b17a138f12aa7326637d1a96b
+SHA1: 984d36bf3113ac3fc5fe200c4068942fa0816261
+SHA256: b1d2d1422cabd948df35fe861eed0dda7905e512ecb1c1ace66937ad8832d837
+SHA512: 9b11591ad2883b553002ca781de436421d23bb9091604c1b7cc9a40fcb26264790de699928fa701a6e37e0d5013122602fe2154dc56ecd3b36d2829e12666cc4
+Description: 阻止应用程序创建自己的相册
+Name: BlockAppsCreateAlbum-Rootless
+Author: Netskao
+
+Package: netskao.lowpowerbannertips-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/netskao.lowpowerbannertips-rootless_1.1-3_iphoneos-arm64_dedf2a2645ca6bb744808482587d2845bc08401eedb42f41f36999d488ec64be.deb
+Size: 14568
+MD5sum: 6dee9874b932b9293001eb3a4a30641d
+SHA1: 87c50e751734c26f92a4da9caf4d1da065835707
+SHA256: dedf2a2645ca6bb744808482587d2845bc08401eedb42f41f36999d488ec64be
+SHA512: 429559ec675cb9da4af1d761b619493106e5732d51c17f52f67867433c4e6aa855d6682afebb3ee13092d83b1366138799ea5fdb436d2d9014a47e3ad4d8e14b
+Description: 将低电量弹窗改为横幅提示样式
+Author: Netskao
+Name: LowPowerBannerTips-Rootless
+
+Package: netskao.wcpureextension-rootless
+Architecture: iphoneos-arm64
+Version: 4.2-6
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 19660
+Provides: netskao.wechatpurification-rootless
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Filename: debs/iphoneos-arm64/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64_782495b8550e9f2907f9b28b39e646366c65e47caba669b644bfe29b45d84099.deb
+Size: 7084312
+MD5sum: f791bf4a3121e554efc646ba61e43dd5
+SHA1: 08739ed8b86bfb0480c2a5ee0941483bc0241b9a
+SHA256: 782495b8550e9f2907f9b28b39e646366c65e47caba669b644bfe29b45d84099
+SHA512: e4a3b0e001a64e9de40488fdf642cda77f69699213a5d4d35fe94659f946835d5739e3d36d20e0604bf67a8cad0d3b3400059047c5a181e0dfb64299d5a06916
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Name: 微信净化-Rootless
+Author: Netskao
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/ws.hbang.common_2.0_iphoneos-arm64_67338fa3f52951d5cbb900e8582e15dfff5964104bf627643bfe3901cda69652.deb
+Size: 198906
+MD5sum: b41babea6af14166166ac70da0d472bb
+SHA1: d7703febee3eaea3b1319d18cff7c7d59a9af2ab
+SHA256: 67338fa3f52951d5cbb900e8582e15dfff5964104bf627643bfe3901cda69652
+SHA512: b6a7f0755d627ae955dc272db7142a373cb07a879ddabd24476e389757425bd174113eac972acb6ea9eaa3481c302f4822dcbbfe82f04fa622d0591d7076eaed
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/

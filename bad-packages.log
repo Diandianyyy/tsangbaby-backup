@@ -1,0 +1,5 @@
+source	package	version	architecture	sha256	error
+https://tsangbaby.github.io/	com.ali7assan.swipeselection.rootless	2.0	iphoneos-arm64	e3d198fd882092635161922dea5cb6a20dfcc42936e8210703dbc55aede76937	Invalid DEB: dpkg-deb: error: cannot open 'control' (in '/tmp/dpkg-deb.mvnmoy'): Permission denied 
+https://tsangbaby.github.io/	com.xybp888.noapplemobilerepair	0.0.1-103	iphoneos-arm64	8c613dc1a934db0b5a43dd502c5b060ef8258d4be86c097dc31d80d439248937	Invalid DEB: dpkg-deb: error: cannot open 'control' (in '/tmp/dpkg-deb.hChlwQ'): Permission denied 
+https://tsangbaby.github.io/	com.xybp888.noapplemobilerepair	0.0.1-104	iphoneos-arm64e	e626d32305800f570b2c693d354fc6e8db605f2509c91050ef7ad566b138199c	Invalid DEB: dpkg-deb: error: cannot open 'control' (in '/tmp/dpkg-deb.Zkfco4'): Permission denied 
+https://tsangbaby.github.io/	netskao.batterypercentx-rootless	1.1-1	iphoneos-arm64	b935f4d841fda75a51f5b81594a505b028d25f4ba957196db1af03b82b5a4bb7	Invalid DEB: dpkg-deb: error: cannot open 'control' (in '/tmp/dpkg-deb.8Edg7s'): Permission denied 
