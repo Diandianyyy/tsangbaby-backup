@@ -53,6 +53,23 @@ Name: Unseen
 Author: 82flex
 
 Package: com.ali7assan.swipeselection.rootless
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.ali7assan.swipeselection.rootless_2.0_iphoneos-arm64_e3d198fd882092635161922dea5cb6a20dfcc42936e8210703dbc55aede76937.deb
+Size: 22910
+MD5sum: 67563fe8c69ee77609f37d1e446dc370
+SHA1: b2139910f2707a7a6b7d913e6b1e5b1efcfec745
+SHA256: e3d198fd882092635161922dea5cb6a20dfcc42936e8210703dbc55aede76937
+SHA512: 7f777a6f46774c3ed7940a0da8bdae1827d813cdaefc5a0ea71920073a85bcb483ee47145b1319cc5f2d44c588bdce410ef5b49067caada908f384c4dba9b436
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
+
+Package: com.ali7assan.swipeselection.rootless
 Architecture: iphoneos-arm64e
 Version: 2.0
 Section: Tweaks
@@ -1015,6 +1032,51 @@ Description: 微信功能扩展
 Name: WCHook
 Author: vita
 
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm64
+Version: 0.0.1-103
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.xybp888.noapplemobilerepair_0.0.1-103_iphoneos-arm64_8c613dc1a934db0b5a43dd502c5b060ef8258d4be86c097dc31d80d439248937.deb
+Size: 11244
+MD5sum: de083109758283731a20a52d437f4803
+SHA1: 39f7296d3f128fa8a541ed5ca7dc25968aa5e468
+SHA256: 8c613dc1a934db0b5a43dd502c5b060ef8258d4be86c097dc31d80d439248937
+SHA512: e4063c42ea50dccf257e761773a3ee4de165ebbae81874df9f9e70540d559fc46a5bf18deb9b1ca29f20b93a5b5e23538d1efe38a8a36ecf2eb8979d17cf6420
+Description: No Apple MobileRepair
+ (禁止在设置页面显示维修记录,例如更换电池的提醒,屏幕等)
+ 本插件免费使用,安装即可生效,无设置!
+ 本插件在 16.5 多巴胺越狱环境下测试通过,其他系统自行测试
+ 1.更换第三方电池后，开启显示正常电池健康值。
+ 2.屏蔽关于本机显示未知部件记录。
+ 3.屏蔽设置显示红1以及电池更新提醒信息。
+ 4.屏蔽设置系统OTA 升级显示红1提醒信息
+Name: No Apple MobileRepair
+Author: xybp888
+Depiction: https://apt.htv123.com/view/159
+SileoDepiction: https://apt.htv123.com/sileo/159
+
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm64e
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm64e_e626d32305800f570b2c693d354fc6e8db605f2509c91050ef7ad566b138199c.deb
+Size: 11024
+MD5sum: ebd665199cdf76ddebe0092fe2e6b300
+SHA1: c32678f2f03a3b91a74dab9f5813cb99c01b6e25
+SHA256: e626d32305800f570b2c693d354fc6e8db605f2509c91050ef7ad566b138199c
+SHA512: 16681d0e2c2097377c42eba8cc0f6226b3fdc2d849452d2f58735ac03defceb902471fe138403eb45e8f59b5e0c2c49c60298e3d29a185df99e5a9a7a336289b
+Description: No Apple MobileRepair
+Name: No Apple MobileRepair(RootHide)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/185
+SileoDepiction: https://apt.htv123.com/sileo/185
+
 Package: dev.traurige.batterybuddy
 Architecture: iphoneos-arm64
 Version: 1.3.5
@@ -1114,6 +1176,23 @@ SHA256: b1d2d1422cabd948df35fe861eed0dda7905e512ecb1c1ace66937ad8832d837
 SHA512: 9b11591ad2883b553002ca781de436421d23bb9091604c1b7cc9a40fcb26264790de699928fa701a6e37e0d5013122602fe2154dc56ecd3b36d2829e12666cc4
 Description: 阻止应用程序创建自己的相册
 Name: BlockAppsCreateAlbum-Rootless
+Author: Netskao
+
+Package: netskao.batterypercentx-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/netskao.batterypercentx-rootless_1.1-1_iphoneos-arm64_b935f4d841fda75a51f5b81594a505b028d25f4ba957196db1af03b82b5a4bb7.deb
+Size: 5862
+MD5sum: 5a8f95314d363a17a3794e5f262efb6e
+SHA1: 5541e93791e0765be06db27271aaf63cd18d08d4
+SHA256: b935f4d841fda75a51f5b81594a505b028d25f4ba957196db1af03b82b5a4bb7
+SHA512: 0454fc1bf7329823884d6c1179099bc0fa3327d5058f0c76cf15536b1a97052c85080e364c19f2cbbe7ff2d5619d5d6179e93786c428e4b5002f1375d0555775
+Description: BatteryPercentX启用系统原生电池百分比，加深边框颜色，加深充电时电池颜色
+Name: BatteryPercentX-Rootless
 Author: Netskao
 
 Package: netskao.lowpowerbannertips-rootless
