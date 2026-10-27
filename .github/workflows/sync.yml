@@ -30,6 +30,7 @@ jobs:
           grep -E 'entries,|Downloaded:|Skipped bad package' /tmp/sync.log >> "$GITHUB_STEP_SUMMARY" || true
       - name: Save archived packages and failure log
         run: |
+          sudo chown -R $USER:$USER debs Packages* bad-packages.log
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add Packages Packages.bz2 Packages.gz Packages.xz
