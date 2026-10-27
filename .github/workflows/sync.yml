@@ -26,7 +26,7 @@ jobs:
       - name: Download and verify packages
         run: |
           set -o pipefail
-          python3 -u scripts/sync_apt_repo.py --source https://tsangbaby.github.io/ --max-downloads 0 | tee /tmp/sync.log
+          sudo -E python3 -u scripts/sync_apt_repo.py --source https://tsangbaby.github.io/ --max-downloads 0 | tee /tmp/sync.log
           grep -E 'entries,|Downloaded:|Skipped bad package' /tmp/sync.log >> "$GITHUB_STEP_SUMMARY" || true
       - name: Save archived packages and failure log
         run: |
