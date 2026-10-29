@@ -743,6 +743,44 @@ Name: CopyLite
 Author: Tsangbaby
 Icon: file:///Library/PreferenceBundles/CopyLitePrefs.bundle/icon.png
 
+Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64
+Version: 0.2.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2108
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.tsangbaby.galaxy_0.2.3_iphoneos-arm64_8be7a04fcee8279e68b41e4f44574d1f85bcde6d8ee586ec774659aba1ba062d.deb
+Size: 431096
+MD5sum: 58dfe464ecc26581e26505bf627be0e2
+SHA1: ff929b65bf5ebdde9316615d62e2e871f938a2ca
+SHA256: 8be7a04fcee8279e68b41e4f44574d1f85bcde6d8ee586ec774659aba1ba062d
+SHA512: 8582d014e87fb6e3f434ed3f0f0f681814544a5e8d2920e6f779dba42af7b8532000989054bd380300f826fd347e40cf233e35b7f3d1f88b11135c8d385467d9
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
+Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64e
+Version: 0.2.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2108
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64e/com.tsangbaby.galaxy_0.2.3_iphoneos-arm64e_c62a463b6bef5b2397125294c339a5895d4c7da0dbd8cc48b891210aec838b4b.deb
+Size: 430400
+MD5sum: 5140fb931cf19fd1dbb6e78c32d3698f
+SHA1: 19cc503cf234eb752f6cb82ab38275e90273a9b8
+SHA256: c62a463b6bef5b2397125294c339a5895d4c7da0dbd8cc48b891210aec838b4b
+SHA512: 33e453eeda24495cbf733579094ae6637d7444c82ef684ea2103ca517e7f59911e06c42d7e2eb52d2cf60c802a91c8fa8e0b3f7c0c91f93bffd88348fe743046
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
 Package: com.tsangbaby.kayoko
 Architecture: iphoneos-arm64
 Version: 5.0
