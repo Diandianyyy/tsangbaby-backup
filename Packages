@@ -801,6 +801,25 @@ Icon: https://tsangbaby.github.io/Icon/Galaxy.png
 SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
 
 Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64
+Version: 0.3.4
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2208
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.tsangbaby.galaxy_0.3.4_iphoneos-arm64_d6751d97a1d8fd9950b821332478d3e9274918dd1cee79c2d17b029fb579e155.deb
+Size: 452984
+MD5sum: 9182e8a41043a11462f002c1373d9afd
+SHA1: 19b49a39abfc9c38522eff2fa18d6d101be718f2
+SHA256: d6751d97a1d8fd9950b821332478d3e9274918dd1cee79c2d17b029fb579e155
+SHA512: 986f8395799db5f4c56cf803f8893a33a6c6eab55ad0ca7dbbf01d875fe57989d8c296fe6c72336f3ee2b3071f5343fd377d679df46f3a32012a67f6e762f9c3
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
+Package: com.tsangbaby.galaxy
 Architecture: iphoneos-arm64e
 Version: 0.2.3
 Section: Tweaks
@@ -851,6 +870,25 @@ MD5sum: 3663cd81b1ac0b2a1f9e03aeb8a2e7ad
 SHA1: 06c1264e548afce5e3eeb1817f567d77094abf98
 SHA256: 45490c0eed2d3eb895a14a1421ab9a40e5d6174d637316081f80100177ed66c5
 SHA512: 0857f19c9e095bd2bfa8054f5c563cbd4f4320cff72a3a733ab5f472bd47f9c99f155eb30a20880074cec73c1d004df19b354a799a07797a0c87ef75bc7403df
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
+Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64e
+Version: 0.3.4
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2208
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64e/com.tsangbaby.galaxy_0.3.4_iphoneos-arm64e_00a2aa1c1d54b66b78b7d29cf77b68971b88adc2b955c6f4103b5b98aa6b5ddb.deb
+Size: 452844
+MD5sum: 0f7860d6a486a96b1fa5cec2ed75f904
+SHA1: 19a9f8e88dc3bc8233dc7d16ba101e2895f561bb
+SHA256: 00a2aa1c1d54b66b78b7d29cf77b68971b88adc2b955c6f4103b5b98aa6b5ddb
+SHA512: f047358e5ce8e606b66b655c0454f9146024612cccf06c4c777720a34d4d141ef4673a1659a5fd16cdff98472603e631d9d77e745cfed5958054c61028f248a7
 Description: Independent circular app launcher for iOS 15 and later.
 Name: Galaxy
 Author: Tsangbaby
