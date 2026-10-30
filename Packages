@@ -782,6 +782,25 @@ Icon: https://tsangbaby.github.io/Icon/Galaxy.png
 SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
 
 Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2176
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.tsangbaby.galaxy_0.3.2_iphoneos-arm64_99bf1cbe631003e29bbd5efaca86f20f5bcca8e4e7f8d8a0d6cb11f8099eef0e.deb
+Size: 449036
+MD5sum: 0e4b25d7b709104741eacfb9f6f037f9
+SHA1: 28a7e9cbbeb55fb6c298ff2509c69b964e173dac
+SHA256: 99bf1cbe631003e29bbd5efaca86f20f5bcca8e4e7f8d8a0d6cb11f8099eef0e
+SHA512: 274a68bf275df28b3b65439f4336412d6168d504c0d13e2e28f688187c7250ec9a67f2c25407a31ebd7d16d14f64a3700e3de15ec35327909dcd6e6eb1868048
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
+Package: com.tsangbaby.galaxy
 Architecture: iphoneos-arm64e
 Version: 0.2.3
 Section: Tweaks
@@ -813,6 +832,25 @@ MD5sum: 600bdf510f646a884c52b1ad6c345aa9
 SHA1: a25b14ede5eef27d01579c573be30dfa140e836f
 SHA256: 95430e76eca6f999c26e1d152fec10d3c6ff00c685bf2e1c80aa2a4722278ead
 SHA512: bd0479696c210bd2a7c82d50b2f3785361300ca12484a7ba9d9b3ed53f862c835402e69004ac356ec42080f8dbb11141e1d1a29903dbccbed9259d71fbba4ac8
+Description: Independent circular app launcher for iOS 15 and later.
+Name: Galaxy
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Galaxy.png
+SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.galaxy/depiction.json
+
+Package: com.tsangbaby.galaxy
+Architecture: iphoneos-arm64e
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 2176
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64e/com.tsangbaby.galaxy_0.3.2_iphoneos-arm64e_45490c0eed2d3eb895a14a1421ab9a40e5d6174d637316081f80100177ed66c5.deb
+Size: 449328
+MD5sum: 3663cd81b1ac0b2a1f9e03aeb8a2e7ad
+SHA1: 06c1264e548afce5e3eeb1817f567d77094abf98
+SHA256: 45490c0eed2d3eb895a14a1421ab9a40e5d6174d637316081f80100177ed66c5
+SHA512: 0857f19c9e095bd2bfa8054f5c563cbd4f4320cff72a3a733ab5f472bd47f9c99f155eb30a20880074cec73c1d004df19b354a799a07797a0c87ef75bc7403df
 Description: Independent circular app launcher for iOS 15 and later.
 Name: Galaxy
 Author: Tsangbaby
@@ -860,6 +898,40 @@ Name: Kayoko
 Author: Tsangbaby
 Icon: https://tsangbaby.github.io/Icon/Kayoko.png
 SileoDepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.kayoko/depiction.json
+
+Package: com.tsangbaby.kbrc
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tsangbaby.kbrc_1.0.3_iphoneos-arm64_c01ee2713a06eb5f048f51790c5fd49defb01201dd374014ae61f62fff0d67c4.deb
+Size: 4078
+MD5sum: 61ce45cf4c17966fd32b5b5293792a64
+SHA1: 4a49bdb414070dbf74efd603dbccfd7cd4c8f1eb
+SHA256: c01ee2713a06eb5f048f51790c5fd49defb01201dd374014ae61f62fff0d67c4
+SHA512: dd6dd4946d758555b05abf55b992cf13b8bd650a3ee44fa7857b6d1a7aeefbbc1dff6bf62ef8c27696fad91bd8c50c9c734926be5fb1e9d6236f554b7b79b6f5
+Description: 调整系统键盘按键圆角，让键盘外观更加圆润、简洁。需要 iOS 15 或更高版本。
+Name: 系统键盘圆角
+Author: Tsangbaby
+
+Package: com.tsangbaby.kbrc
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tsangbaby.kbrc_1.0.3_iphoneos-arm64e_1e2896609510e24fa7bed676277e1b6214bb5c8d1d2a72ab8024c244499f48cb.deb
+Size: 4020
+MD5sum: cf6a80358411ac36060bc6219232e164
+SHA1: 1f5d0b51afb89fd0cf1e5ea22615d8b7f4760bf2
+SHA256: 1e2896609510e24fa7bed676277e1b6214bb5c8d1d2a72ab8024c244499f48cb
+SHA512: 713fa78f9910c7c5effe087097b0c8168c93863a112aff60b1700701e0e0967fb7d848dba1e905e1bed364ae2028ed4e7a613e12aa529baac779d3b76e63285b
+Description: 调整系统键盘按键圆角，让键盘外观更加圆润、简洁。需要 iOS 15 或更高版本。
+Name: 系统键盘圆角
+Author: Tsangbaby
 
 Package: com.tsangbaby.lecard.wuyu
 Architecture: iphoneos-arm64
