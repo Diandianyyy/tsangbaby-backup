@@ -1415,6 +1415,42 @@ Name: StatusBarSpeed
 Icon: https://tsangbaby.github.io/Icon/StatusBarSpeed.png
 Author: Tsangbaby
 
+Package: com.tsangbaby.storeid
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 396
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.tsangbaby.storeid_0.3.2_iphoneos-arm64_f2ab6c5e026bd1a23a21c77f69e197866f2a886442305970b1e6f899916f3e9b.deb
+Size: 64660
+MD5sum: 1625645b29799c6be7e2003dd5868df1
+SHA1: 5ee6317181024c8b0d6a11018c7e15860a118b7e
+SHA256: f2ab6c5e026bd1a23a21c77f69e197866f2a886442305970b1e6f899916f3e9b
+SHA512: 75e75102bc8fbd067be3532c9a971ef9ae7fc912e30e6278f00a9d1f4e5608aef1030caf0f855f6fcc2e065185620f4745d9e276bcddfdd7c38ded0e1182789e
+Description: Display and copy Bundle IDs on App Store product pages.
+Name: StoreID
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/StoreID.png
+
+Package: com.tsangbaby.storeid
+Architecture: iphoneos-arm64e
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 396
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.tsangbaby.storeid_0.3.2_iphoneos-arm64e_ac7889a2ef1587b07389c7eb4d2012ca725a880826f694608ec2edcfe69d2b5e.deb
+Size: 64662
+MD5sum: 60726f6e498d67b3bfcfe40efbba5e8a
+SHA1: 6f684e042bf22eb2398566bc9f52cae292914847
+SHA256: ac7889a2ef1587b07389c7eb4d2012ca725a880826f694608ec2edcfe69d2b5e
+SHA512: b454bbf0f5b1cfdf698948f50e852676b258f07b4d4405d87ec3e35bf1a8f28195ef9ee9f8d4f5b63094fbb7182ac70c8b1fb812f2f9742e17768e6fe2c20ccc
+Description: Display and copy Bundle IDs on App Store product pages.
+Name: StoreID
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/StoreID.png
+
 Package: com.vita.wchook
 Architecture: iphoneos-arm64
 Version: 1.0-2
